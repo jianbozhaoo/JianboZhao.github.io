@@ -7,8 +7,6 @@ navigation:
     url: https://JianboZhao.github.io
   # - name: CV
   #   url: /asset/xulong.pdf
-  - name: Blog
-    url: /blog
   - name: Google Scholar
     url: https://scholar.google.com
 
