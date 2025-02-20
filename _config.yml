@@ -20,16 +20,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xulong_0826@qq.com
+  email: zhaojianbo@email.nnnu.edu.cn
   facebook:
-  github: xulong0826
+  github: jianbozhaoo
   rss: # just type anything here for a working RSS icon
   twitter:
   youtube:
 
-footer-text: Copyright (c) 2024 Xu Long
+footer-text: Copyright (c) 2024 Jianbo Zhao
 
-url: https://xulong0826.github.io
+url: https://JianboZhao.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
