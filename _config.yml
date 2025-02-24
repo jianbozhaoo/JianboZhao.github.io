@@ -1,7 +1,8 @@
 name: "Jianbo Zhao 赵剑波"
 description: "M.S. Student, Nanning Normal University"
 
-#avatar: https://JianboZhao.github.io/js/avatar.png
+avatar: https://JianboZhao.github.io/images/avatar.png
+favicon: https://JianboZhao.github.io/images/favicon.ico
 navigation:
   - name: Homepage
     url: https://JianboZhao.github.io
