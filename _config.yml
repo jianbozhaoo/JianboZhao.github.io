@@ -5,7 +5,7 @@ avatar: https://github.com/jianbozhaoo/JianboZhao.github.io/blob/main/images/ava
 favicon: https://github.com/jianbozhaoo/JianboZhao.github.io/blob/main/images/favicon.ico
 navigation:
   - name: Homepage
-    url: https://JianboZhao.github.io
+    url: https://github.com/jianbozhaoo/JianboZhao.github.io
   # - name: CV
   #   url: /asset/xulong.pdf
   - name: Google Scholar
@@ -26,7 +26,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Jianbo Zhao
 
-url: https://JianboZhao.github.io
+url: https://github.com/jianbozhaoo/JianboZhao.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
